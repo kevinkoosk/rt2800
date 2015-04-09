@@ -1,2 +1,2 @@
-# rt2800
+# rt2800 (*rt2800usb*)
 This is the driver for rt2800. The version in Linux is extremely unstable, and also uses some functions which are incompatible with Linux 3.0.8 or above. This is a fork of a third party driver which should fix these problems.
